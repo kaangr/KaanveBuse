@@ -4,6 +4,10 @@ import { ImageSlide } from './ImageSlide';
 import { FadeInText } from './FadeInText';
 import { FireplaceEnding } from './FireplaceEnding';
 import { FloatingHearts } from './FloatingHearts';
+import couple1 from '../assets/images/couple1.jpg';
+import couple2 from '../assets/images/couple2.jpg';
+import couple3 from '../assets/images/couple3.jpg';
+import couple4 from '../assets/images/couple4.jpg';
 
 const messages = [
   "Birlikte güzel anılar biriktiriyoruz",
@@ -13,11 +17,10 @@ const messages = [
 ];
 
 const images = [
-  "/images/couple1.jpg",
-  "/images/couple2.jpg",
-  "/images/couple3.jpg",
-  "/images/couple4.jpg",
-
+  couple1,
+  couple2,
+  couple3,
+  couple4,
 ];
 
 export const LoveStory: React.FC = () => {
