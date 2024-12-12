@@ -16,7 +16,7 @@ export const FireplaceEnding: React.FC = () => {
       text: "Kar da yağsın artık hadi "
     },
     custom: {
-      video: "/videos/video.mp4",
+      video: "/KaanveBuse/videos/video.mp4",
       text: "İstediğimiz yerde de Uno'muzu oynarız"
     }
   };
