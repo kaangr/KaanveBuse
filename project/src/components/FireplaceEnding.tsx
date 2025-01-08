@@ -9,7 +9,7 @@ export const FireplaceEnding: React.FC = () => {
   const content = {
     fireplace: {
       video: "https://cdn.pixabay.com/video/2023/11/26/190776-888535446_large.mp4",
-      text: "Soğuk bir kış gününde şurada uzanıp gülüşmemiz (Bir elin popomda) dileğiyle <3 "
+      text: "Soğuk bir kış gününde şurada uzanıp gülüşmemiz dileğiyle <3 "
     },
     snow: {
       video: "https://cdn.pixabay.com/video/2022/12/11/142579-780232342_large.mp4",
